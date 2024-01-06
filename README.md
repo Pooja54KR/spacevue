@@ -41,7 +41,7 @@ SpaceVue Dashboard serves as a monitoring tool for space missions, providing a u
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/spacevue-dashboard.git
+   https://github.com/Pooja54KR/spacevue.git
 2. Navigate to the project directory:
      ## cd spacevue-dashboard
 3. Install dependencies:
