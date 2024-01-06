@@ -2,6 +2,11 @@
  
  SpaceVue Dashboard is a React-based application designed to display recent space mission data in tabular and graphical formats. This project utilizes AG-Grid for tabular data representation and Chart.js for creating charts.
 
+ ![loginPage](https://github.com/Pooja54KR/spacevue/assets/102729036/359876e1-66b1-4db4-a0bd-0bb74d237b8b)  ![dashboard](https://github.com/Pooja54KR/spacevue/assets/102729036/bde7e8ea-9fb8-4835-8e04-7cbe0a6cb7db)
+
+
+
+
 ## Table of Contents
 
 - [Overview](#overview)
